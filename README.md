@@ -51,8 +51,9 @@ npm run dev
 yarn dev
 ```
 
+---
 
-
-
+###  Deployment Link -
+- https://vercel.com/ameenkhns-projects/patient-management-app
 
 
