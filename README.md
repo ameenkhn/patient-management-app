@@ -28,11 +28,11 @@ This application provides a modern interface for managing patient data with adva
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/your-username/patient-management-app.git
 cd patient-management-app  
 ```
+
 ---
 
 ### 2. Clone the Repository
@@ -54,6 +54,4 @@ yarn dev
 ---
 
 ###  Deployment Link -
-- https://vercel.com/ameenkhns-projects/patient-management-app
-
-
+- https://patient-management-app-git-main-ameenkhns-projects.vercel.app/
